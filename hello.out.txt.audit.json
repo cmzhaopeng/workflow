@@ -1,0 +1,14 @@
+{
+    "ID": "e11h4j9rdo5239ke8468",
+    "ProcessName": "hello",
+    "Command": "echo 'Hello ' \u003e hello.out.txt",
+    "Params": {},
+    "Tags": {},
+    "StartTime": "2023-02-10T00:37:43.252586+08:00",
+    "FinishTime": "2023-02-10T00:37:43.288245+08:00",
+    "ExecTimeNS": 35658439,
+    "OutFiles": {
+        "out": "hello.out.txt"
+    },
+    "Upstream": {}
+}
