@@ -1,0 +1,4 @@
+AUDIT   2023/02/12 14:05:29 [Workflow:hello_world] Starting workflow (Writing log to log/scipipe-20230212-140529-hello_world.log)
+AUDIT   2023/02/12 14:05:29 [Task:hello] Output file already exists, so skipping: hello.out.txt
+AUDIT   2023/02/12 14:05:29 [Task:world] Output file already exists, so skipping: hello.out.txt.world.out.txt
+AUDIT   2023/02/12 14:05:29 [Workflow:hello_world] Finished workflow (Log written to log/scipipe-20230212-140529-hello_world.log)

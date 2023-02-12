@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-	// Init workflow and max concurrent tasks
 	wf := sp.NewWorkflow("hello_world", 4)
 
 	// Initialize processes, and file extensions
